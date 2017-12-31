@@ -1,0 +1,13 @@
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.frmCalc.resources
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Kohl's School\ENTD461\Assignments\Calculator\Calculator\bin\Debug\Calculator.accdb
